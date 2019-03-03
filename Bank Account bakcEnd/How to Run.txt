@@ -1,1 +1,0 @@
-Execute the command on CMD: java -jar Manager-0.0.1-SNAPSHOT.jar
