@@ -1,7 +1,7 @@
 # DevelopX
 Code challenge - CTO 
 ## Backend 
-<p> In order to initialize the backend application execute the command below on CMD: <b>
+<p> In order to initialize the backend application execute the command below on CMD: <b></b>
 `java -jar Manager-0.0.1-SNAPSHOT.jar`
 
 ## Frontend
